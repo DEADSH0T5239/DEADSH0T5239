@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is DEADSHOT5239 and I'm A passionate frontend developer from Belize,from Belize..</h2>
+<h2 align="left">Hi 👋! My name is DEADSHOT5239 and I'm A passionate frontend developer, from Belize..</h2>
 
 ###
 
